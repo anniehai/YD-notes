@@ -1,0 +1,14 @@
+{% extends './layout.html' %}
+
+{% block title %}一灯图书管理系统{%endblock%}
+
+{% block head %}
+<link rel="stylesheet" href="/styles/index.css">
+<script src="/scripts/index.js"></script>
+{% endblock %}
+
+{% block content %}
+{% include "../widgets/news/list.html" %}
+<!-- 测试csr的innerhtml -->
+<!-- <div id="csr"></div> -->
+{% endblock %}

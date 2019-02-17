@@ -1,0 +1,21 @@
+[2019-02-17T00:26:32.003] [ERROR] cheese - ReferenceError: error is not defined
+    at app.use (/Users/apple/yideng/zuoye/books/yd-books/middlewares/errorHandler.js:16:30)
+    at dispatch (/Users/apple/yideng/zuoye/books/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/apple/yideng/zuoye/books/yd-books/middlewares/errorHandler.js:5:23)
+    at dispatch (/Users/apple/yideng/zuoye/books/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/apple/yideng/zuoye/books/yd-books/node_modules/koa-static/index.js:53:15)
+    at <anonymous>
+[2019-02-17T00:26:47.648] [ERROR] cheese - ReferenceError: error is not defined
+    at app.use (/Users/apple/yideng/zuoye/books/yd-books/middlewares/errorHandler.js:16:30)
+    at dispatch (/Users/apple/yideng/zuoye/books/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/apple/yideng/zuoye/books/yd-books/middlewares/errorHandler.js:5:23)
+    at dispatch (/Users/apple/yideng/zuoye/books/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/apple/yideng/zuoye/books/yd-books/node_modules/koa-static/index.js:53:15)
+    at <anonymous>
+[2019-02-17T00:27:59.052] [ERROR] cheese - ReferenceError: error is not defined
+    at app.use (/Users/apple/yideng/zuoye/books/yd-books/middlewares/errorHandler.js:16:30)
+    at dispatch (/Users/apple/yideng/zuoye/books/yd-books/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/apple/yideng/zuoye/books/yd-books/middlewares/errorHandler.js:5:23)
+    at dispatch (/Users/apple/yideng/zuoye/books/yd-books/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/apple/yideng/zuoye/books/yd-books/node_modules/koa-static/index.js:53:15)
+    at <anonymous>
